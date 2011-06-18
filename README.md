@@ -8,4 +8,4 @@ Now, I was wondering: **what if the time spent discussing the issue would indeed
 
 This project gathers facts, such as how many people said something about http-range-14, how many blog posts have been written, how many hours have been burned in the various mailing lists, W3C groups, in companies, in F2F discussions, etc.
 
-The goal is to produce an infographic that gives people an idea what the last 10 years has been going on re http-range-14. Taking on [Paul Rouget's challenge](http://paulrouget.com/e/infographicsInHTML5/) the infographic shall be done in HTML5.
+The goal is to produce an infographic that gives people an idea what has been going on re http-range-14 in the past 10 years. Taking on [Paul Rouget's challenge](http://paulrouget.com/e/infographicsInHTML5/) the infographic shall be done in HTML5.
