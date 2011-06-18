@@ -1,6 +1,6 @@
 # What is this about?
 
-The [http-range-14](http://www.w3.org/2001/tag/issues.html#httpRange-14) keeps the Semantic Web community busy, at least since 2002. While officially [resolved](http://lists.w3.org/Archives/Public/www-tag/2005Jun/0039.html "[httpRange-14] Resolved from Roy T. Fielding on 2005-06-19 (www-tag@w3.org from June 2005)") in 2005, the http-range-14 still causes major discussions - it is unclear if and when these will ever end. We have a dedicated W3C [Task Force](http://www.w3.org/2001/tag/awwsw/ "AWWSW task group") and a lot more people involved in various mailing lists, on Twitter, etc. discussing this issue.
+The [http-range-14](http://www.w3.org/2001/tag/issues.html#httpRange-14) keeps the Semantic Web community busy, at least since 2002. While officially [resolved](http://lists.w3.org/Archives/Public/www-tag/2005Jun/0039.html) in 2005, the http-range-14 still causes major discussions - it is unclear if and when these will ever end. We have a dedicated W3C [Task Force](http://www.w3.org/2001/tag/awwsw/ "AWWSW task group") and a lot more people involved in various mailing lists, on Twitter, etc. discussing this issue.
 
 Now, I was wondering: **what if the time spent discussing the issue would indeed have been spent in developing tools or applications that provide some value?**
 
